@@ -26,6 +26,12 @@ Main modules:
 - `sql/03_queries.sql`
 - `sql/04_procedures.sql`
 
+## 🗺 ER Diagram
+![ER Diagram](erdiagram.png)
+
+## 🧱 Relational Schema
+![Relational Schema](relationalschema.png)
+
 ## 👩‍💻 My Contribution
 - Created database tables and populated sample data
 - Implemented the required SQL queries
